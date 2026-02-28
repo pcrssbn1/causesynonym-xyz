@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://causesynonym.xyz/sitemap.xml
